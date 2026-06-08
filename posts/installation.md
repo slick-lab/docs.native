@@ -46,7 +46,7 @@ Add to your shard.yml:
 dependencies:
   native:
     github: slick-lab/native.cr
-    version: ~> 0.0.98
+    version: ~> 0.1.0
 ```
 
 Then run:
